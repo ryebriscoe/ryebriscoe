@@ -52,11 +52,11 @@ Full-stack course platform built with a 6-person team — registrar, gradebook, 
 </td>
 <td width="50%" valign="top">
 
-**Job Application Tracker** *(in progress)*
+**🏀 B.A.D. — Basketball Action Detection** *(in progress)*
 
-Full-stack app for tracking job applications, with AI-assisted parsing of postings and status updates.
+Computer vision project that identifies the offensive play being run in a basketball clip (pick and roll, Spain pick-and-roll, horns, floppy, pistol, transition) using a Roboflow pipeline with Qwen3-VL action reasoning.
 
-`Spring Boot` `PostgreSQL` `React`
+`Computer Vision` `Roboflow` `Qwen3-VL`
 
 </td>
 </tr>
@@ -71,6 +71,7 @@ Full-stack app for tracking job applications, with AI-assisted parsing of postin
 | [computer-networks-projects](https://github.com/ryebriscoe/computer-networks-projects) | DNS resolver, UDP socket programming, and traffic analysis |
 | [image-search-app](https://github.com/ryebriscoe/image-search-app) | Flask + PySide6 image search and processing apps |
 | [soccerdle](https://github.com/ryebriscoe/soccerdle) | Wordle-style soccer trivia game |
+| Job Application Tracker *(in progress)* | Full-stack app for tracking job applications, with AI-assisted parsing of postings |
 
 <div align="center">
 
