@@ -42,9 +42,10 @@ Fully automated content pipeline — Reddit ingest, LLM script generation, TTS, 
 <tr>
 <td width="50%" valign="top">
 
-**[🎓 Course Registrar System](https://github.com/cst438-team03-org0/cst438-team-03-registrar)**
+**🎓 Course Management System** *(Canvas-style)*
 
-Team project (6 contributors) — full-stack registrar system with database, backend, and frontend for a software engineering course.
+Full-stack course platform built with a 6-person team — registrar, gradebook, and frontend as separate services.
+[registrar](https://github.com/cst438-team03-org0/cst438-team-03-registrar) · [gradebook](https://github.com/cst438-team03-org0/cst438-team03-gradebook) · [frontend](https://github.com/cst438-team03-org0/cst438-team03-frontend)
 
 `Spring Boot` `Database` `React`
 
